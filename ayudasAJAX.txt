@@ -1,0 +1,13 @@
+# Fetch API Javascript
+https://stackoverflow.com/questions/12460378/how-to-get-json-from-url-in-javascript
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+## Javascript AJAX tradicional
+https://www.w3schools.com/js/js_ajax_http_response.asp
+
+## JQuery GET ajax
+https://www.w3schools.com/jquery/jquery_ajax_get_post.asp
+
+## Angular $http AJAX
+https://www.w3schools.com/angular/angular_http.asp
+
